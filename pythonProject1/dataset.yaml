@@ -1,0 +1,4 @@
+train: C:\Users\User\Desktop\csd\pythonProject1\Data\images\train
+val: C:\Users\User\Desktop\csd\pythonProject1\Data\images\train
+nc: 1
+names: ["botella"]

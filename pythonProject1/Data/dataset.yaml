@@ -1,0 +1,4 @@
+train: C:\Users\User\Desktop\csd\pythonProject1\botella\YOLODataset/images/train/
+val: C:\Users\User\Desktop\csd\pythonProject1\botella\YOLODataset/images/val/
+nc: 1
+names: ["botella"]
